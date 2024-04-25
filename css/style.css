@@ -1,0 +1,32 @@
+body {
+  background-color: tan;
+  margin: 0;
+  color: #880808;
+}
+
+h1 {
+  background-color: #e1dada;
+  margin: 0;
+  text-align: center;
+}
+
+.articles {
+  border: #880808 2px solid;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+  width: 50%;
+}
+
+h3 {
+  background-color: skyblue;
+  margin-top: 0;
+  border-bottom: #880808 2px solid;
+}
+
+#news {
+  /* justify-content: center; */
+  
+}
